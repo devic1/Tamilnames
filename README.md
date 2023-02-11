@@ -13,3 +13,5 @@ can be useful for generating new, unique Tamil names for fictional
 characters, businesses, or for any other purposes. The code is 
 implemented using PyTorch and can be easily integrated into other 
 applications or further fine-tuned for specific use cases.
+
+![Example Image](https://github.com/devic1/Tamilnames/raw/main/images/rnnout.png)
